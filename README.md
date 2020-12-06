@@ -1,2 +1,3 @@
 # angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+Git is used in collaberation with Github and keeps track of our code's history.
+# C-26
